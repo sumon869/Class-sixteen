@@ -1,0 +1,126 @@
+.header{
+    background: #101446;
+}
+.logo{}
+.logo a{}
+.logo img {
+    width: 100px;
+    margin: 16px;
+}
+.menu{}
+.menu ul{}
+.menu ul li{
+}
+.menu ul li a {
+    text-decoration: none;
+    line-height: 63px;
+    margin-bottom: -16px;
+    font-size: 16px;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+}
+/* banner section css start */
+.banner{
+    background: url(../img/intro-bg.jpg) bottom no-repeat;
+    background-size: cover;
+    padding: 280px;
+    color: #fff;
+    text-align: center;
+}
+.inner-con {
+    margin-top: 170px;
+}
+.banner h1 {
+    margin-right: 90px;
+}
+.banner p {
+    font-size: 19px;
+    width: 1000px;
+    margin: auto;
+    margin-left: -120px;
+    font-family: 'Roboto', sans-serif;
+}
+.banner button{
+    border: none;
+    font-family: 'Roboto', sans-serif;
+}
+/* service section css start */
+.service{
+    background-color: #bac1f3;
+    padding: 80px 0;
+}
+.s-heading h1{
+    font-size: 60px;
+    margin-bottom: 80px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+.s-item {
+    width: 50%;
+    margin: auto;
+    margin-left: 25px;
+}
+.s-item button{
+    border: none;
+}
+.fast{
+    color: #1e1e1e;
+    font-weight: 400;
+}
+.last{
+    color: #664e73;
+}
+/* about section css start */
+.about{
+    background-color: #c2d4ea;
+    padding: 100px 0;
+}
+.margin{
+    margin-left: -50px;
+}
+.font{
+    color: #4e4e4e;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+.ab-heading h1{
+    font-size: 60px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 50px;
+}
+.special{
+    color: #4e4e4e;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+/* contact css start */
+.contact{
+    background-color: #f5f5f5;
+    padding: 80px 0;
+}
+.con-heading h1{
+    font-size: 60px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+.form h6{
+    color: #4e4e4e;
+}
+.form textarea{
+    height: 95px;
+}
+.button{
+    border: none;
+    background-color: #5bc0de;
+    padding: 6px 12px;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+/* footer css start */
+.footer{
+    background-color: #0062d3;
+}
+.footer p{
+}
